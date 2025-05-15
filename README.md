@@ -31,6 +31,7 @@ python autoclicker.py
 ```  
 
 2. Set the click interval (in seconds) in the input field.  
+![image](https://github.com/Bennys0/AutoClicking-Bot/blob/main/Modifying%20click%20interval.gif)
 3. Press the **'C' key** to start/stop auto-clicking.  
 4. Move the mouse cursor to the desired click position.  
 
