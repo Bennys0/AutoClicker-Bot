@@ -13,7 +13,17 @@ An AutoClicking-Bot is a script designed to automate mouse clicking functions wi
 ```bash  
 pip install pynput
 ```  
-
+## Important notes
+1. Make sure you have installed Python3 on your computer
+   - Download link: https://www.python.org/downloads/
+   - To check whether Python is already installed in your pc: Run below's command on terminal
+      ```bash  
+      python --version  
+      ```
+2.  You may run the program on any Integrated Development Environment(IDE) e.g. VSCode or Pycharm
+3.  You may adjust the click interval, it changes during the Runtime
+4.  Please ensure you stop the program(turn off the Graphical User Interface) before you use the key button **' C'** for others' use rather than toggle auto-clicking on/off 
+   
 ## Usage Instructions  
 
 1. Run the program:  
